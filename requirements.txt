@@ -1,0 +1,6 @@
+torch
+torchvision
+streamlit
+grad-cam
+pillow
+numpy
