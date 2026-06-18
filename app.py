@@ -161,9 +161,9 @@ if uploaded_file is None:
         st.markdown("**Model info:**")
         st.markdown("""
         - Architecture: ResNet50
-        - Dataset: HAM10000
+        - Dataset: ISIC2019
         - Training: Transfer learning + fine-tuning
-        - Classes: 7 skin lesion types
+        - Classes: 8 skin lesion types
         """)
 
 # ── PREDICTION ────────────────────────────────────────────────────────────────
